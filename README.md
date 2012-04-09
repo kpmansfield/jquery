@@ -1,6 +1,6 @@
 [jQuery](http://jquery.com/) - New Wave JavaScript
 ==================================================
-
+Eddited by KPMansfield 9 Apr 2012
 Contribution Guides
 --------------------------------------
 
